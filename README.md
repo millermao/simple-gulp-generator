@@ -1,0 +1,2 @@
+# simple-gulp-generator
+gulp
